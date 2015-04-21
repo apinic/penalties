@@ -10,328 +10,347 @@
     "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir bajo efectos de estupefacientes, psicotrópicos, estimulantes y sustancias controladas.",
+    "price": "4,000.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir de forma temeraria.",
+    "price": "3,000.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Provocar accidente y darse a la fuga.",
+    "price": "2,500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir a velocidad mayor que la que se exprese en la señalización de tránsito o al estándar establecido.",
+    "price": "2,500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Estacionar en carretera, trailers, rastras y contenedores sin triángulos reflectivos u otras señales lumínicas adecuadas para la prevención de accidentes.",
+    "price": "1,000.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Giros indebidos en U y Zigzag.",
+    "price": "1,000.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Usar placas y/o circulación de otro vehículo.",
+    "price": "1,000.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Invasión de carril.",
+    "price": "800.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Trasladar mercadería o carga a granel sin la protección total de carpas o lonas.",
+    "price": "500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Participar en competencias ilegales de automotores.",
+    "price": "1,000.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir sin tener licencia de conducir.",
+    "price": "500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "No respetar la preferencia peatonal en las intersecciones o los cruces de colegios.",
+    "price": "650.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Exceso de pasajeros o de carga",
+    "price": "500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Aventajar en pendientes, curvas o puentes",
+    "price": "500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir con las luces apagadas después de la hora indicada, o durante el día cuando haya condiciones ambientales de lluvia, neblina o tolvanera.",
+    "price": "500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Adelantar en línea continua amarilla.",
+    "price": "500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir contra la vía.",
+    "price": "500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Obstrucción de la libre circulación vehicular.",
+    "price": "500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "El conductor de motocicleta y acompañante que circulen sin portar debidamente el casco.",
+    "price": "500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "El conductor y acompañantes de un vehículo automotor, que no utilice el cinturón de seguridad.",
+    "price": "350.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Desatender señales de emergencia, lumínicas, sonoras de ambulancias, policía o bomberos.",
+    "price": "350.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir utilizando manualmente teléfonos móviles, o cualquier otro aparato de distracción en el manejo.",
+    "price": "250.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "No reportar los cambios de las características físicas del vehículo.",
+    "price": "500.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir con las puertas abiertas, transporte colectivo y de carga.",
+    "price": "650.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir carga sin la debida señalización visible o reflectiva apropiada.",
+    "price": "350.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Estacionarse en la vía pública, en caso de emergencia, sin triángulos reflectivos u otras señales lumínicas adecuadas para la prevención de accidentes.",
+    "price": "350.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Transportar niños menores de siete años en el asiento delantero o en asientos posteriores de vehículos sin cinturón de seguridad o sistema de protección o retención infantil.",
+    "price": "350.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Desatender señales de tránsito, verticales u horizontales, siempre que estén visibles.",
+    "price": "350.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir motocicletas con niños menores de 8 años.",
+    "price": "200.00",
+    "type": "De mayor peligrosidad"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir cuadraciclos en ciudades y áreas no autorizadas por la Policía Nacional.",
+    "price": "700.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir vehículos que provocan exceso de humo.",
+    "price": "500.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir en estado de embriaguez ligera: Concentración superior a 0.5 gramos hasta 1 gramo de alcohol por litro de sangre.",
+    "price": "1,000.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir cuadraciclos o triciclos sin utilizar debidamente el casco técnicamente adecuado.",
+    "price": "250.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir de retroceso en la vía pública.	",
+    "price": "250.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Aventajar por la derecha en vías de un solo carril.",
+    "price": "250.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Aventajar por la derecha en vías de un solo carril.	",
+    "price": "250.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Subir pasajeros fuera de la bahía o lugares no establecidos como paradas.	",
+    "price": "250.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Bajar o subir pasajeros por el lado izquierdo en la vía pública.	",
+    "price": "250.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Realizar señales equivocadas sobre sus maniobras al conducir.	",
+    "price": "250.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir vehículo en mal estado mecánico.	",
+    "price": "250.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Provocar ruidos escandalosos y perturbadores del medio ambiente.	",
+    "price": "450.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Circular con los vehículos sobre bulevares, aceras o andenes.	",
+    "price": "250.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir sin seguro de responsabilidad civil por daños a terceros, según la categoría siguiente:Motocicletas",
+    "price": "500.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir sin seguro de responsabilidad civil por daños a terceros, según la categoría siguiente:Vehículos automotores livianos",
+    "price": "1,500.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir sin seguro de responsabilidad civil por daños a terceros, según la categoría siguiente:Vehículos automotores pesados",
+    "price": "3,000.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "No portar triángulos fluorescentes o extinguidor.",
+    "price": "250.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "No guardar la distancia entre uno y otro vehículo.	",
+    "price": "160.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Estacionarse:Sobre aceras y andenes.",
+    "price": "160.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Estacionarse:Frente a hidrantes.",
+    "price": "160.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Estacionarse:Frente a garajes.",
+    "price": "160.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Estacionarse:En las entradas de hospitales y clínicas.",
+    "price": "160.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Estacionarse:En los estacionamientos habilitados para personas con discapacidad, accesos o rampas para discapacitados.",
+    "price": "160.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Estacionarse:En paradas de buses, particulares o transporte selectivo.",
+    "price": "160.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Estacionarse:En rotondas.",
+    "price": "160.00",
+    "type": "Peligrosas"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Tirar basura o desechos en la vía pública desde vehículos automotores de uso público o privado.",
+    "price": "320.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir sin portar placas o licencia de circulación.	",
+    "price": "320.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir con licencia en categorías diferentes a la autorizada.	",
+    "price": "320.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Transporte urbano colectivo, no detenerse a subir o bajar pasajeros en las paradas definidas por la autoridad correspondiente.",
+    "price": "320.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Circular con placas no visibles, en mal estado o no autorizadas.",
+    "price": "320.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir con calcomanía de revisado sin vigencia.	",
+    "price": "320.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Prestar servicio de transporte público sin la debida autorización.",
+    "price": "320.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir automotores con el certificado o calcomanía de emisión de gases o el certificado de inspección mecánica sin vigencia.",
+    "price": "320.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir con la licencia vencida.",
+    "price": "250.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir transporte colectivo fuera de la ruta o servicio no autorizado.	",
+    "price": "160.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   },
   {
-    "text": "",
-    "price": "",
-    "type": ""
+    "text": "Conducir sin portar licencia.",
+    "price": "160.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
   }
-]
+  {
+    "text": "Circular sin espejos retrovisor interno o lateral.",
+    "price": "160.00",
+    "type": "Violaciones a las normas de admisión al tránsito"
+  }
+]{
+  "text": "Obstruir la visibilidad en los vidrios del vehículo utilizando polarizado no autorizado.",
+  "price": "200.00",
+  "type": "Violaciones a las normas de admisión al tránsito"
+  }
+  {
+  "text": "Circular en bicicletas o medios de transporte de tracción animal sin señales lumínicas visibles.",
+  "price": "100.00",
+  "type": "Violaciones a las normas de admisión al tránsito"
+  }
+  {
+  "text": "Circular sin la calcomanía del pago de impuesto de rodamiento.	",
+  "price": "100.00",
+  "type": "Violaciones a las normas de admisión al tránsito"
+  }
