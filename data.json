@@ -1,270 +1,337 @@
 [
   {
     "text": "Conducir en estado de embriaguez extrema: concentración superior a 2 gramos de alcohol por litro de sangre.",
-    "price": "5,000.00"
+    "price": "5,000.00",
+    "type": "De mayor peligrosidad"
   },
   {
     "text": "Conducir en estado de embriaguez: concentración de más de 1 gramo hasta 2 gramos de alcohol por litro de sangre.",
-    "price": "4,000.00"
+    "price": "4,000.00",
+    "type": "De mayor peligrosidad"
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   },
   {
     "text": "",
-    "price": ""
+    "price": "",
+    "type": ""
   }
 ]
