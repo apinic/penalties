@@ -11,7 +11,7 @@ import (
 func main() {
 
   h := http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
-    w.Header().Set("Content-Type", "application/json")
+    w.Header().Set("Content-Type", "application/json; charset=utf-8")
     data, err := ioutil.ReadFile("./data.json")
     fmt.Fprintln(w, string(data))
     if err != nil {
