@@ -1,5 +1,10 @@
 {
-  "ImportPath": "github.com/apinic/penalties",
-  "GoVersion": "go1.2.1",
-  "Deps": []
+	"ImportPath": "github.com/apinic/penalties",
+	"GoVersion": "go1.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/rs/cors",
+			"Rev": "5e4ce6bc0ecd3472f6f943666d84876691be2ced"
+		}
+	]
 }
