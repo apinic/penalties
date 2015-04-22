@@ -1,0 +1,5 @@
+{
+  "ImportPath": "github.com/apinic/penalties",
+  "GoVersion": "go1.2.1",
+  "Deps": []
+}
